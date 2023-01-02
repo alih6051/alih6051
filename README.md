@@ -11,7 +11,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-<h3 align="center">A Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
+<h3 align="center">A Full Stack Web Developer skilled in MERN stack who focuses on writing clean and efficient code.</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
