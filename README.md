@@ -1,4 +1,5 @@
 <!----------------------------------- Banner Section ------------------------------------>
+
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://alih6051.github.io)
 
 <!----------------------------------- Heading Section ------------------------------------>
@@ -15,33 +16,30 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Masum Raja 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Mohd Hasan 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" /></p>
 
-
-
 # 💫 About Me:
+
 🔭 I’m currently preparing for placements!.<br>
 <br>🌱 I’m currently learning MERN Stack.<br>
-<br>📄 Check out my [Resume](https://drive.google.com/file/d/1BEH4IFOnIJ1E7qfflGLsixYksbFI87ct/view?usp=sharing)<br>
-<br>💻 Know more about me [Portfilio](https://masum-raja.github.io/)<br>
-<br>💻 All of my projects are available at My [Github Repositories](https://github.com/masum-raja?tab=repositories)<br>
+<br>📄 Check out my [Resume](https://1drv.ms/b/s!AgPbShu6dL-mg2mrhza2Kzvab5KF?e=LhOIUG)<br>
+<br>💻 Know more about me [Portfilio](https://alih6051.github.io/)<br>
+<br>💻 All of my projects are available at My [Github Repositories](https://github.com/alih6051?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
 <br>📫 How to reach me mr.razamasum@gmail.com<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
-
 <h2 align="center">📱 Connect with me</h2>
 <br />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/masumraja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masum-raja" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohd-hasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alih6051" height="30" width="40" /></a>
 </p>
 <br />
 
@@ -94,32 +92,33 @@
 <br/>
 <br/>
   
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=masum-raja&label=Profile%20views&color=0e75b6&style=flat" alt="masum" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alih6051&label=Profile%20views&color=0e75b6&style=flat" alt="masum" /> </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/masum-raja/github-readme-stats"><img alt="masum-raja Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masum-raja&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/alih6051/github-readme-stats"><img alt="alih6051 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alih6051&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
-    <a href="https://github.com/masum-raja/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="masum streak" src="https://github-readme-streak-stats.herokuapp.com/?user=masum-raja&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    <a href="https://github.com/alih6051/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="masum streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alih6051&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
-</p>                                                                                                                                              
+</p>
 
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/masum-raja/github-readme-stats"><img alt="masum Github Stats" src="https://github-readme-stats.vercel.app/api?username=masum-raja&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="masum" /></a>
-    </p>                                                                 
+    <a href="https://github.com/alih6051/github-readme-stats"><img alt="masum Github Stats" src="https://github-readme-stats.vercel.app/api?username=alih6051&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="masum" /></a>
+    </p>
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <br/>
 
- ### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
