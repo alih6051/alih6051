@@ -31,7 +31,7 @@
 <br>💻 Know more about me [Portfilio](https://alih6051.github.io/)<br>
 <br>💻 All of my projects are available at My [Github Repositories](https://github.com/alih6051?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
-<br>📫 How to reach me mr.razamasum@gmail.com<br>
+<br>📫 How to reach me alih6051@gmail.com<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
